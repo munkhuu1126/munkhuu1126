@@ -1,6 +1,2 @@
-i, uh, like anything computer science related\
-my programming process in a nutshell:\
-\>i get excited\
-\>i read related scientific papers\
-\>i get overwhelmed and get sad\
-\>never again
+# Welcome !
+I'm interested in all things computer science. I always eager to learn more about the field. This github account is where i put all my experiments and so on.
